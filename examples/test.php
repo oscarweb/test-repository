@@ -5,3 +5,4 @@ use Testing\Testing;
 
 $app = new Testing;
 $app->run();
+$app->other();
