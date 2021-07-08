@@ -1,0 +1,19 @@
+{
+    "name": "oscarweb/test-repository",
+    "description": "Testing...",
+    "type": "library",
+    "license": "MIT}",
+    "authors": [
+        {
+            "name": "Oscar S.C.",
+            "email": "php@oscarweb.com.ar"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload" : {
+        "psr-4" : {
+            "Testing\\" : "src/"
+        }
+    }
+}
